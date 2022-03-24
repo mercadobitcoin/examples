@@ -1,0 +1,8 @@
+# Rust
+
+
+## Running
+
+```
+$ cargo run
+```
